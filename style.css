@@ -1,0 +1,60 @@
+html {
+    background-color: rgb(255, 255, 255);
+}
+input#Entrar {
+    color: white;
+    background-color: orange;
+    border: none;
+    width: 100px;
+    height: 25px;
+}
+
+input#C1 {
+    color: rgb(0, 0, 0);
+    border: solid gray;
+    width: 180px;
+    height: 25px;
+}
+
+div.doble {
+    display: inline-block;
+}
+
+input#singular {
+    color: rgb(0, 0, 0);
+    border: solid gray;
+    width: 370px;
+    height: 25px;
+}
+
+select#C1 {
+    color: rgb(0, 0, 0);
+    border: solid gray;
+    width: 187px;
+    height: 30px;
+    margin-right: 5px;
+}
+
+input#NUM {
+    color: black;
+    background-color: rgb(255, 255, 255);
+    border: 2px gray solid;
+    width: 50px;
+    height: 32px;
+}
+
+input#C2 {
+    color: rgb(0, 0, 0);
+    border: solid gray;
+    width: 145px;
+    height: 30px;
+    margin-right: 5px;
+}
+
+input#Crear {
+    color: white;
+    background-color: lightgreen;
+    border: none;
+    width: 100px;
+    height: 25px;
+}
